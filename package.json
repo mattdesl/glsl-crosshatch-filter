@@ -1,0 +1,40 @@
+{
+  "name": "glsl-crosshatch-filter",
+  "version": "1.0.0",
+  "description": "a simple crosshatch effect for 2D scenes",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "glsl-luma": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "cross",
+    "hatch",
+    "crosshatch",
+    "sketch",
+    "shader",
+    "post",
+    "process",
+    "effect",
+    "glsl",
+    "glslify",
+    "glslbin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/glsl-crosshatch-filter.git"
+  },
+  "homepage": "https://github.com/mattdesl/glsl-crosshatch-filter",
+  "bugs": {
+    "url": "https://github.com/mattdesl/glsl-crosshatch-filter/issues"
+  }
+}
